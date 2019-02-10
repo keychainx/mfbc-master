@@ -7,7 +7,7 @@ Python3+
 
 # Multi Function Bitcoin Cracker / MFBC
 ```
-offline dictionary attack on btc wallets
+offline multi function crack on btc wallets
 
 Donate to the author of this program: 1GmQaG9R5NPs3ZzR6XPMD9jZk17F9MuoWn
 ```
