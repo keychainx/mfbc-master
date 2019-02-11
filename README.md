@@ -19,7 +19,7 @@ $ git https://github.com/mobb111/mfbc-master.git
 
 $ cd mfbc-master
 
-$ pyton mfbc.py
+$ python mfbc.py
 
 ```
 
