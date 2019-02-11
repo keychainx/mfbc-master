@@ -104,7 +104,7 @@ while loop:
                 output.append(alphabet[0])
                 count += 1
             addr = ''.join(output[::-1])
-            print("base64: " + "  " + str(b64) + "\n" + "Privatekey" + " " + str(pvt)+"\n" + "Salted privatekey: " + str(sal) + "\n" + "Address: " + " " + str(addr) +"\n" + "WIF: " + " " + str(WIF)+"\n")
+            print("base64: " + "  " + str(b64) + "\n" + "Privatekey" + " " + str(pvt)+ "\n" + "Address: " + " " + str(addr) +"\n" + "WIF: " + " " + str(WIF)+"\n")
             with open("addr-data.txt", "r") as m:
                 add = m.read().split()
                 for ad in add:
