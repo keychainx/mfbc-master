@@ -26,12 +26,16 @@ $ python mfbc.py
 # Menu
 
 ```
-Select from function 1 to 4, 0 = Exit
+Select from function 1 to 8, 0 = Exit
 
-1) os.urandom generator 
-2) secrets.token_bytes generator
-3) dict. attack random word gen. (no space)
-4) dict. attack random word gen. (with space)
+1) os.urandom generator
+2) os.urandom with base 64
+3) secrets.token_bytes generator
+4) secrets.token_bytes generator with base64
+5) dict. attack random word gen. (no space)
+6) dict. attack random word gen. with base 64 (no space)
+7) dict. attack random word gen. (with space)
+8) dict. attack random word gen. with base64 (with space)
 0) exit
 ```
 
